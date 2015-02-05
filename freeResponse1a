@@ -1,0 +1,17 @@
+package tester;
+
+class tester {
+  public static void main(String args[]){
+    public class reset(){
+      if(isFacingRight() == true){
+        changgeDirection();
+      }
+      while(getCurrentIndex() != 0){
+        moveForeward(1);
+      }
+      changeDirection();
+    }
+    public int mostAcidic(){
+      for(int i = 0; i<solutions.size(); i++)
+    }
+  }
